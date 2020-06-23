@@ -1,7 +1,7 @@
 { 
     "profiles" :[
         {
-            "_id": "5dfa345028bcffb177566935",
+            "id": "5dfa345028bcffb177566935",
             "name": "Keziah",
             "surname": "Heynes",
             "email": "kheynes@student.wethinkcode.co.za",
@@ -27,7 +27,7 @@
             }
         },
         {
-            "_id": "5e0ee7a5e5a6df685d316f46",
+            "id": "5e0ee7a5e5a6df685d316f46",
             "name": "Abduraghmaan",
             "surname": "Gabriels",
             "email": "agabrie@student.wethinkcode.co.za",
@@ -57,7 +57,7 @@
             }
         },
         {
-            "_id": "5e0ee835e5a6df685d316f47",
+            "id": "5e0ee835e5a6df685d316f47",
             "name": "Matthew",
             "surname": "Gerber",
             "email": "magerber@student.wethinkcode.co.za",

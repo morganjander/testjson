@@ -47,7 +47,10 @@
                 "https://upload.wikimedia.org/wikipedia/commons/0/06/Makari_the_Tiger.jpg"
               ],
                 "interests": ["pizza", "turtles", "ninjas"],
-                "views": [],
+                "views": [{"id": "5e0ee835e5a6df685d316f47",
+                    "liked": false,
+                    "liked_back": false,
+                    "matched": false }],
                 "gender": "Male",
                 "biography": "I am straight",
                 "date_of_birth": "1998-04-20T00:00:00.000Z"
